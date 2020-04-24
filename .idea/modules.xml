@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudioProjects-TabLayoutDemo.iml" filepath="$PROJECT_DIR$/StudioProjects-TabLayoutDemo.iml" group="TabLayoutDemo" />
       <module fileurl="file://$PROJECT_DIR$/TabLayoutDemo.iml" filepath="$PROJECT_DIR$/TabLayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/TabLayoutDemo-app.iml" filepath="$PROJECT_DIR$/app/TabLayoutDemo-app.iml" group="TabLayoutDemo/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
